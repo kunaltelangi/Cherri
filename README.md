@@ -8,7 +8,7 @@
 - csv
 - PyQt5
 # To Run
-- Note if your Mysql password is not root than do changes password in Main.py
+- Note if your Mysql password is not root than do change password in Main.py
 - User can simply install app using setup file and run Main.exe file
 - Or Using Main.py file
 # Bug
